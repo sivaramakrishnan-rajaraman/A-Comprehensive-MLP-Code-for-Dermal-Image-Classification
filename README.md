@@ -9,8 +9,11 @@ We extracted 15 different features including morphological, diagnostic clinical,
 
 # Prerequisites:
 Python 3.5
+
 Keras 2.2.0
+
 Tensorflow-GPU 1.9.0
+
 Scikit-Learn
 
 # Acknowledgment
